@@ -1,0 +1,8 @@
+lineprotocol KEYWORD1
+
+addField    KEYWORD2
+addTag      KEYWORD2
+addTimeStamp_s  KEYWORD2
+addTimeStamp_ms KEYWORD2
+showLineProtocol    KEYWORD2
+clearLineProtocol   KEYWORD2
